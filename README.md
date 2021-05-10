@@ -27,3 +27,7 @@ After the palm detection over the whole image our subsequent hand landmark model
 
 # Result
 ![image](https://user-images.githubusercontent.com/83566027/117607125-efa9b300-b178-11eb-843d-57e696f9e9c4.png)
+
+# Output Video
+https://user-images.githubusercontent.com/83566027/117609051-e4f11d00-b17c-11eb-9e7c-4e3fa004b082.mp4
+
